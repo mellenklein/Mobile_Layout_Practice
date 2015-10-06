@@ -1,0 +1,180 @@
+/********** FIRST LAYOUT ****************/
+
+body {
+  margin: 8px;
+}
+
+main {
+  overflow: auto;
+  max-width: 620px;
+  width: 100%;
+  margin: 0;
+}
+
+.header {
+  background-color: rgb(84,1,6);
+  height: 50px;
+  width: 100%;
+}
+
+.header h4 {
+  color: #fff;
+  padding: 15px 0 30px 30px;
+  margin-top: 0;
+  font-weight: 500;
+  font-size: 110%;
+}
+
+h4 a {
+  text-decoration: none;
+  color: #fff;
+}
+
+.fire-engine {
+  background-color: rgb(234,38,27);
+  height: 385px;
+}
+
+.cabernet {
+  border-bottom: 1px solid rgb(162,162,162);
+}
+
+.cabernet div {
+  background-color: rgb(84,1,6);
+  height: 225px;
+  margin: 64px 7.5px 32px;
+}
+
+.chocolate {
+  background-color: rgb(35,0,1	);
+  height: 917px;
+  width: 100%;
+}
+
+.lipstick {
+  background-color: rgb(161,10,16);
+  margin: 0;
+  height: 622px;
+  padding-top: 140px;
+}
+
+.peach {
+  background-color: rgb(216,127,126);
+  height: 412px;
+  margin: 0 32px 70px 32px;
+}
+
+.footer {
+  background-color: rgb(35,0,1);
+  height: 204px;
+}
+
+
+
+/********** SECOND LAYOUT ****************/
+.header2 {
+  height: 50px;
+  width: 100%;
+  background-color: rgb(46,62,79);
+}
+
+.header2 h4 {
+  color: #fff;
+  padding: 15px 0 30px 30px;
+  margin-top: 0;
+  font-weight: 500;
+  font-size: 110%;
+}
+
+.waterfall {
+  background-color: rgb(40,142,211);
+  height: 250px;
+  margin-bottom: 40px;
+  padding-top: 60px;
+}
+
+button {
+  text-align: center;
+  border: 3px solid #fff;
+  padding: 20px 7px;
+  color: white;
+  background-color: rgb(40,142,211);
+  font-weight: 800;
+  margin: 40px auto 5px;
+  width: 50%;
+  display: block;
+  font-size: 125%;
+  height: 68px;
+}
+
+.sky {
+  height: 45px;
+  background-color: rgb(191,224,246);
+  width: 50%;
+  display: block;
+  margin: 15px auto;
+}
+
+.cloud {
+  height: 35px;
+  background-color: rgb(255,255,255);
+  width: 28%;
+  display: block;
+  margin: 0 auto 200px;
+}
+
+.skyline {
+  height: 45px;
+  background-color: rgb(53,73,93);
+  margin-bottom: 7px;
+}
+
+.pond {
+  background-color: rgb(40,142,211);
+  height: 135px;
+  margin: 27px 15px;
+}
+
+.midnight {
+  background-color: rgb(53,73,93);
+  margin: 0 0 40px;
+  height: 402.5px;
+  padding-top: 27.5px;
+}
+
+.stars {
+  background-color: rgb(144,157,170);
+  height: 375px;
+  margin: 0 25px 27.5px 25px;
+}
+
+.galaxy {
+  height: 275px;
+  background-color: rgb(127,140,141);
+  margin: 48px 33px 48px 33px;
+}
+
+.planet {
+  background-color: rgb(53,73,93);
+  margin: 45px 33px;
+  height: 22px;
+}
+
+.moon {
+  background-color: rgb(127,140,141);
+  margin: 0px 33px 48px 33px;
+  height: 110px;
+}
+
+.footer2 {
+  background-color: #111111;
+  margin: 0;
+  height: 60px;
+  padding-top: 15px;
+}
+
+.footer-inner {
+  background-color: #7F8C8D;
+  height: 45px;
+  margin: 0 15px 15px 15px;
+}
